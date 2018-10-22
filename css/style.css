@@ -82,3 +82,12 @@ body{
 	min-height: 300px;
 }
 /***************/
+
+/* WEEK 4*/
+#carouselButton{
+	right: 0px;
+	position: absolute;
+	bottom: 0px;
+}
+
+/***************/
